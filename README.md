@@ -1,0 +1,2 @@
+# SAM40_AP
+SAM40_AP is an EEG-based mental workload classification framework developed using the SAM40 dataset. The project extracts time- and frequency-domain features from multi-channel EEG signals, applies mRMR feature selection and normalization, and evaluates multiple machine learning classifiers (SVM, Random Forest, Bagging, AdaBoost, KNN, Decision Tree, and Naive Bayes) using both 10-fold cross-validation and Leave-One-Subject-Out (LOSO) validation for subject-independent performance assessment.
